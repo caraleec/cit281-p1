@@ -17,3 +17,9 @@ After completing this project, you will:
   <li>Use the ping command, and practice using the break keyboard sequence</li>
 <li>Create and execute a JavaScript files using Node.js and Visual Studio Code (VSCode) terminal and Run and Debug</li>
 </ul>
+
+<h3>Code links</h3> 
+<ul>
+  <li><a href="https://caraleec.github.io/cit281-p1/p1-date.js">p1-date.js</a></li>
+  <li><a href="https://caraleec.github.io/cit281-p1/p1-random.js">p1-random.js</a></li>
+  
